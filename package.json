@@ -1,0 +1,29 @@
+{
+  "name": "react-advance-debounce",
+  "version": "1.1.0",
+  "description": "An advanced, type-safe React debounce hook with cancel, flush, leading & trailing support",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "react",
+    "debounce",
+    "hook",
+    "typescript",
+    "search",
+    "leading",
+    "trailing"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "csstype": "^3.2.3"
+  }
+}
